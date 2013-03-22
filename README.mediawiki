@@ -1,1 +1,1 @@
-This repository is used in my installation of [http://sparkleshare.org/|SparkleShare] as a stand-in for the Public folder functionality of Dropbox. It is simply a collection of files I have made publicly available for sharing. No more, no less.
+This repository is used in my installation of [http://sparkleshare.org/ SparkleShare] as a stand-in for the Public folder functionality of Dropbox. It is simply a collection of files I have made publicly available for sharing. No more, no less.
